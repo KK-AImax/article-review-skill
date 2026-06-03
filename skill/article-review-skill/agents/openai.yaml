@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Review Skill"
+  short_description: "Audit articles for SEO, GEO, and publish risk"
+  default_prompt: "Use $article-review-skill to audit this article and tell me whether it needs edits, then provide prioritized revision guidance."
